@@ -1,0 +1,8 @@
+{
+    "api_key": "*****",
+    "url_17TrackGetTrackingDetails": "https://api.17track.net/track/v2.2/gettrackinfo",
+    "url_17TrackRegisterTrackingID": "https://api.17track.net/track/v2.2/register",
+    "max_retries": 3,
+    "jsonkey_FileName":"***", 
+    "google_ExcelFileName":"***" 
+}

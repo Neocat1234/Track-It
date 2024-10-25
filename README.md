@@ -8,3 +8,11 @@ Currently, the only carriers that will work with this code are Fedex, UPS, and U
 The information returned will include: EST Arrival (time & date), Current Status (In transit, Delayed, etc.) and what date the status was updated, and Date Shipped. 
 
 
+
+## Resources used:
+
+https://console.cloud.google.com/apigee/
+https://www.17track.net/en/api/doc?version=v2.2
+https://developers.google.com/codelabs/apps-script-fundamentals-1#0
++Various python libraries
+
